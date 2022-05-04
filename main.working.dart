@@ -6,9 +6,9 @@ import 'package:agora_rtc_engine/rtc_remote_view.dart' as RtcRemoteView;
 import 'package:flutter/material.dart';
 //import 'package:permission_handler/permission_handler.dart';
 
-const APP_ID = '36068ca60406491c8c188fc55362fcd8';
+const APP_ID = '';
 const Token =
-    '00636068ca60406491c8c188fc55362fcd8IACpcO7+0vCcLExThB0N71EgQjZPSicchPg83FywrRPRvLiT6u4AAAAAEABD/MfDb6FyYgEAAQBvoXJi';
+    '';
 
 void main() {
   runApp(MyApp());
